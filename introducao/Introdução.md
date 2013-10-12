@@ -1,4 +1,5 @@
 Introdução
+======
 Por linguagem natural, entendemos que são quaisquer tipos de línguas usadas no cotidiano, como Português, Inglês, Alemão, Espanhol entre outras línguas faladas pelos humanos. Com o passar do tempo, as linguagens evoluiram de acordo com as gerações e foram se tornando cada vez mais complexas. O processamento da linguagem natural (PLN) cobre o campo computacional que usa ferramentas para manipulação da linguagem natural. Uma contagem de quantas palavras existem num determinado texto, a compreensão de um discurso: se este tem palavras positivas, negativas ou neutras, comparação de estilos de escrita, são exemplos possíveis no processamento da linguagem natural. 
 
 O crescimento de recursos que usam essa tecnologia vem aumentando de forma exponencial nos computadores de mão, tablets, smartphones e em todos os dispositivos que utilizam aplicativos de reconhecimento de escrita, previsão de textos e traduções automáticas.
