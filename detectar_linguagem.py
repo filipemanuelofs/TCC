@@ -21,5 +21,5 @@ for language in stopwords.fileids():
 
     language_rate[language] = len(commom_elements)
 
-
 print language_rate
+print max(language_rate, key=language_rate.get)
